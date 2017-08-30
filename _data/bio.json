@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sharie Anne Mamuad",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://sharieannem.github.io//images/sharieanne.jpg",
+    "email": "mamuads3@hawaii.edu",
+    "phone": "",
+    "website": "https://sharieannem.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii Manoa. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "sharieannem",
+        "url": "http://github.com/sharieannem"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "sharieannemamuad",
+        "url": "http://linkedin.com/in/sharie-anne-mamuad-165046125/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "web development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "psychology",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "human-computer interaction",
       "keywords": [
       ]
     }
