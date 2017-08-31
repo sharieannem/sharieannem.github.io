@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Self-portrait
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Aesthetics
+  - Creative-thinking
+  - Shading
+summary: An artistic piece portraying a hand-drawn self-portrait for my Intro to Art class in high school.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
