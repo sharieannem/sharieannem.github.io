@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Kirby
 permalink: projects/cotton
 date: 2014
 labels:
-  - Lisp
+  - Java
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A game coded in the Java programming language for my final project in ICS 111.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
