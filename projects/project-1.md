@@ -4,12 +4,12 @@ type: project
 image: images/micromouse.jpg
 title: Earthquake Magnitude Estimation Using P-Wave Amplitudes
 permalink: projects/micromouse
-date: 2015
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: A research project pertaining to Geophysics that I conducted with a partner and mentor for STEM Honors recognition in high school.
+  - Geophysics
+  - STEM
+  - Science Fair
+summary: A Geophysics research project that I conducted with a partner and mentor for science fair and STEM Honors recognition in high school.
 ---
 
 <div class="ui small rounded images">
