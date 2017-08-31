@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Earthquake Magnitude Estimation Using P-Wave Amplitudes
 permalink: projects/micromouse
 date: 2015
 labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: A research project pertaining to Geophysics that I conducted with a partner and mentor for STEM Honors recognition in high school.
 ---
 
 <div class="ui small rounded images">
