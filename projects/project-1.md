@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sciencefair-graph.jpg
 title: Earthquake Magnitude Estimation Using P-Wave Amplitudes
-permalink: projects/earthquakeresearch
+permalink: projects/micromouse
 date: 2016
 labels:
   - Geophysics
