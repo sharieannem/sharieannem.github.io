@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kirby-code.jpg
 title: Kirby
-permalink: projects/cotton
+permalink: projects/kirby
 date: 2014
 labels:
   - Programming
