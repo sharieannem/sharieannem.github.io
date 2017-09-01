@@ -1,23 +1,22 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Self-portrait
-permalink: projects/vacay
+image: images/selfportrait-square.jpg
+title: A Glimpse in Realistic Art
+permalink: projects/selfportrait
 date: 2015
 labels:
   - Aesthetics
   - Creative-thinking
   - Shading
-summary: An artistic piece portraying a hand-drawn self-portrait for my Intro to Art class in high school.
+  - Artistic development
+summary: An artistic piece portraying a hand-drawn partial self-portrait for my Intro to Art class in high school.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/selfportrait.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+'A Glimpse in Realistic Art' is what I call my first, professional, realistic art piece. This project was completed as part of the requirements for my Introduction to Art class during my junior year of high school. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The goal in creating this piece was to capture the aspects of light, shade, dimension, proportion, and realism of a portion of my face using real-time observations in front of a mirror. Using the techniques I learned in class and the variety of lead pencils (i.e. 2B, 4B, H, 4H) provided for me, I created a drawing of my nose and mouth in a period of less than two weeks.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+From this experience, I had the opportunity to exercise the artistic side of me. At that time, my artistic qualities were very minimal and emphasis towards it was put to the side to focus on other technical things related to what I wanted to do with my future (i.e. math, science, and computer classes). But by completing this piece, I realized that art can be used to strengthen creative-thinking, which I think is necessary in solving and working through certain problems in Computer Science.
