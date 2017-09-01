@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/selfportrait-square.jpg
 title: A Glimpse in Realistic Art
-permalink: projects/selfportrait
+permalink: projects/vacay
 date: 2015
 labels:
   - Aesthetics
