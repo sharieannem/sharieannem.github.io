@@ -9,11 +9,10 @@ labels:
   - Aesthetics
   - Creative-thinking
   - Shading
-  - Artistic development
 summary: An artistic piece portraying a hand-drawn partial self-portrait for my Intro to Art class in high school.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/selfportrait.png">
+<img class="ui medium right floated rounded image" src="../images/selfportrait.jpg">
 
 'A Glimpse in Realistic Art' is what I call my first, professional, realistic art piece. This project was completed as part of the requirements for my Introduction to Art class during my junior year of high school. 
 
