@@ -13,7 +13,7 @@ summary: A Geophysics research project that I conducted with a partner and mento
 ---
 
 
-  <img class="ui image" src="../images/sciencefair-board.jpg">
+  <img class="ui image" src="../images/sciencefair-board.jpg"> <br>
   <img class="ui image" src="../images/sciencefair-map.jpg">
 
 
