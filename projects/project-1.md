@@ -13,10 +13,8 @@ summary: A Geophysics research project that I conducted with a partner and mento
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/sciencefair-board.jpg">
+  <img class="ui image" src="../images/sciencefair-map.jpg">
 </div>
 
 
