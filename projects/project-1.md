@@ -12,10 +12,10 @@ labels:
 summary: A Geophysics research project that I conducted with a partner and mentor for science fair and STEM Honors recognition in high school.
 ---
 
-<div class="ui small rounded images">
+
   <img class="ui image" src="../images/sciencefair-board.jpg">
   <img class="ui image" src="../images/sciencefair-map.jpg">
-</div>
+
 
 
 'Earthquake Magnitude Estimation Using P-Wave Amplitudes' is the headline of my STEM research project during my senior year of high school. I decided to "double-dip" by also entering the project into my high school's science fair. In turn, it advanced to the Leeward district science fair at Leeward Community College and progresssed to the 2016 state science fair at Hawaii Convention Center - Honolulu, HI. The project was awarded 3rd place in the high school fair and won numerous awards in both the leeward and state fairs. The research is focused on investigating a method to rapidly estimate an earthquake's magnitude in order to give the Pacific Tsunami Warning Center (PTWC) 10-20 seconds more time to inform the public of an upcoming tsunami—if the earthquake at hand is strong enough to actually develop a tsunami. Richter's definition for earthquake magnitude was used but was modified in this project so that the earliest arriving information on the seismogram, the initial p-waves, were analyzed instead of the later arriving maximum waves (s-waves or surface waves) of an earthquake. To do this, the project focused on examining recent earthquakes that occurred in Hawaii (the Big Island). The final result was a general equation for earthquake magnitude estimation.
