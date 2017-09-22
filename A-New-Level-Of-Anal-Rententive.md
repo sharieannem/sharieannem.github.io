@@ -8,7 +8,7 @@ labels:
   - Communcation
 ---
 
-<img class="ui medium left floated image" src="../images/analretentive-code.jpg">
+<img class="ui fluid image" src="../images/analretentive-code.jpg">
 
 ## What I First Thought About Programming
 
@@ -16,8 +16,12 @@ The first time I looked at a line of code was when I was nine or ten years old. 
 
 ## Moving On To My First Programming Course
 
-I took my first programming class in Leeward Community College (LCC) at Pearl City, Oahu.
+I took my first programming class at Leeward Community College (LCC) at Pearl City, Oahu. Before taking the class, I took a long hiatus in programming. The course I took was an 'Introduction to Java'. As the semester went on, I thought my professor was very anal because of many reasons. For one, he wanted a certian number of spaces before each line. He also wanted documentation of the program at the top of each .java file a certain way. He wanted each line to be indented a specific number of 'tabs.' There were many requirements in the way I had to structure my code in order for me to get a good grade in my coding assignments and I thought to blame my professor because of how strict he was in very miniscule things. I remember he assigned an assignment that I had difficulty completing so I asked a classmate if I could look at his code to see how he did it. When I looked at his .java file, it was not very confusing but I had to do a little thinking because of the difference in details (i.e. spacing, indentation, naming conventions, etc.) that he had compared to mine. I did not realize till then the difficulty of reading others' code if it does not match the structure that you are so used to.
+
+## Coding Standards
+
+This is where coding standards take a role! Those little differences like two spaces for each line of code, or indenting one/two/three 'tabs', or naming each variable by using 'Camel Casing', or even being repetitive in the documentation of each method/class. All of these actually matter! It makes it better to understand, maintain, debug, and add to code when the code itself has a universal structure.
 
 ## Conclusion
 
-All in all, coding standards is a way-to-go when it comes to creating programs that are shared in large groups, easy debugging of a program for errors, etc.
+Being exposed to the coding standards of ESLint with IntelliJ was definitly a pain because of all the errors that would popup. For example, including a space where it was "not needed" or not using a declared variable or its value anywhere in the program. It was 'Introduction to Java' class all over again! It took me a while to get used to the different kinds of error messages of ESLint but in all, it really just helps to simplify my programs and make them more easy to look at. Coding standards are definitely a way-to-go when you are working on a program that will be maintained by other developers, when you want a smooth debugging process, or when you want to understand code better/faster, etc.
