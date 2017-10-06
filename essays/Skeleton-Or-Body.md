@@ -10,7 +10,7 @@ labels:
   - CSS
 ---
 
-<img class="ui medium left floated image" src="../images/frameworks-humour.jpg">
+<img class="ui medium center image" src="../images/frameworks-humour.jpg">
 
 ## Skeletons
 
