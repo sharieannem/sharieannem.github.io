@@ -20,7 +20,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 
 <b>HTML Only:</b>
 
-<h1>This is just a plain header</h1>
+<h1 style="text-align: center">This is just a plain header</h1>
 
 ```
 <!DOCTYPE HTML>
@@ -36,7 +36,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 
 <b>HTML + CSS:</b>
 
-<h1 style="text-shadow: 0 0 3px #99FFFF; color: #FFFFFF; text-align: center">This is just a plain header</h1>
+<h1 style="text-shadow: 2px 2px 10px #99FFFF; color: #FFFFFF; text-align: center">This is just a plain header</h1>
 
 ```
 <!DOCTYPE HTML>
@@ -51,7 +51,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 ```
 <hr style="border= 1px dashed black;">
 
-## The Proccess and Time Commitment
+## The Process and Time Commitment
 
 The combination of HTML with CSS can produce beautifully designed websites but coding from scrath can result to some cons that you are likely to experience. First of all, to be able to create sylish user interfaces, you would need an extensive knowledge of the HTML and CSS programming languages plus A LOT of practice to enhance your application of your knowledge. Even with that, you would still be troubled by the responsibility of making and maintaining your web application's compatibility with multiple browsers and platforms (which could take more time than it took you to code). All the while, debugging would be a nightmare with the hundreds of lines of code that you had written.
 
@@ -62,6 +62,21 @@ For example, when displaying an image that is centered, circular, and bordered, 
 
 <hr style="border=1px dashed black;">
 
+<img class="width: 300px; text-align: center; border: 1px solid black; border-radius: 50%" src="../images/frameworks-example.jpg">
+
+<b>Code without framework:</b>
+
+```
+<img class="width: 300px; text-align: center; border: 1px solid black; border-radius: 50%">
+```
+
+<img class="ui medium centered bordered circular image" src="../images/frameworks-example.jpg">
+
+<b>Code with framework</b>
+
+```
+<img class="ui medium centered bordered circular image" src="../images/frameworks-example.jpg">
+```
 
 ## Conclusion
 
