@@ -78,6 +78,8 @@ For example, when displaying an image that is centered, circular, and bordered, 
 <img class="ui medium centered bordered circular image" src="../images/frameworks-example.jpg">
 ```
 
+Although it does not look like it with this single image component, Semantic and all other UI frameworks takes care of the itt-bitty styling components for you resulting in a smaller amount of lines of code.
+
 ## Conclusion
 
 Admittingly, I sometimes do ask "not-so-smart" questions and looking back, the answers I got either left me in the same confused state or made me even more confused. After reading about the effective ways on how to ask [questions](http://www.catb.org/esr/faqs/smart-questions.html) and applying what I learned by pinpointing the bad questions from the good on StackOverflow, I have a good understanding on how to communicate questions effectively in a way that actually encourages people to answer and help me out.
