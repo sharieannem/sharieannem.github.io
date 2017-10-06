@@ -14,9 +14,27 @@ labels:
 
 ## Skeletons
 
-You can think of programming in HTML as building a skeleton or maybe a doll that has absolutely no facial features, clothes, accessories, and hair. When you build that image in your mind, it is a bit terrifying! Looking at it might even give you an urge to wanna add those special features to make the doll "pretty" and more easy to look at. In, terms of programming, that is where CSS is into play. You add a sprinkle of CSS to make your program aesthetically appealing.
+You can think of programming in HTML as building a skeleton or maybe a doll that has absolutely no facial features, clothes, accessories, and hair. When you build that image in your mind, it can be a bit terrifying! Looking at it might even give you an urge to wanna add those special features to make the doll "pretty" and more easy to look at. In terms of programming, this is where CSS is put into play. You add a sprinkle of CSS to your HTML code and voila! Out comes a program that is more aesthetically appealing.
 
-## Section Title
+HTML Only:
+```
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+
+<body>
+<h1>This is just a plain header</h1>
+</body>
+</html>
+```
+
+HTML + CSS:
+```
+
+```
+
+## The Proccess and Time Commitment
 
 First of all, when asking questions, it is very important to know what you want and lay down what you know. It can be extremely easy to just throw a bunch of questions at someone whom you think has all the answers for your problems but it is most likely inefficient to do so and is seen as very bothersome to most as it shows your incapability to communicate your questions/problems in a professional and concise way. It also shows that you are more focused on getting it done rather than the quality of understanding the concepts and possibly applying it to other similar questions/problems. 
 Therefore, as an example, I browsed the various questions stored in StackOverflow and stumbled on a questions that is delivered appropriatly to the forum community. 
