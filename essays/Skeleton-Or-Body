@@ -31,7 +31,15 @@ HTML Only:
 
 HTML + CSS:
 ```
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
 
+<body>
+<h1 style="text-shadow: 0 0 3px #99FFFF">This is just a plain header</h1>
+</body>
+</html>
 ```
 
 ## The Proccess and Time Commitment
