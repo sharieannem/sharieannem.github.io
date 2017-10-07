@@ -62,12 +62,12 @@ For example, when displaying an image that is centered, circular, and bordered, 
 
 <hr style="border=1px dashed black;">
 
-<img style="width: 300px; text-align: center; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
+<img style="width: 300px; margin-left: 50%; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
 
 <b>Code without framework:</b>
 
 ```html
-<img style="width: 300px; text-align: center; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
+<img style="width: 300px; margin-left: 50%; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
 ```
 
 <img class="ui medium centered bordered circular image" src="../images/frameworks-example.jpg">
