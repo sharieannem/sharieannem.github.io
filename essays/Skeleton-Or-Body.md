@@ -20,7 +20,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 
 <b>HTML Only:</b>
 
-<h1 style="text-align: center">This is just a plain header</h1>
+<h1 style="text-align: center; font-size: 30px">This is just a plain header</h1>
 
 ```html
 <!DOCTYPE HTML>
@@ -36,7 +36,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 
 <b>HTML + CSS:</b>
 
-<h1 style="text-shadow: 2px 2px 10px #99FFFF; color: #FFFFFF; text-align: center; font-family: 'Tangerine', cursive;">This is just a plain header</h1>
+<h1 style="text-shadow: 2px 2px 10px #99FFFF; text-align: center; font-family: 'Tangerine', cursive; font-size: 30px">This is just a plain header</h1>
 
 ```html
 <!DOCTYPE HTML>
@@ -45,7 +45,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 </head>
 
 <body>
-<h1 style="text-shadow: 0 0 3px #99FFFF; color: #FFFFFF; text-align: center; font-family: 'Tangerine', cursive;">This is just a plain header</h1>
+<h1 style="text-shadow: 0 0 3px #99FFFF; text-align: center; font-family: 'Tangerine', cursive; font-size: 30px">This is just a plain header</h1>
 </body>
 </html>
 ```
@@ -62,12 +62,12 @@ For example, when displaying an image that is centered, circular, and bordered, 
 
 <hr style="border=1px dashed black;">
 
-<img style="width: 300px; margin-left: 40%; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
+<img style="width: 300px; margin-left: 30%; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
 
 <b>Code without framework:</b>
 
 ```html
-<img style="width: 300px; margin-left: 40%; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
+<img style="width: 300px; margin-left: 30%; border: 1px solid black; border-radius: 50%;" src="../images/frameworks-example.jpg">
 ```
 
 <img class="ui medium centered bordered circular image" src="../images/frameworks-example.jpg">
