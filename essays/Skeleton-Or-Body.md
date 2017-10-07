@@ -36,7 +36,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 
 <b>HTML + CSS:</b>
 
-<h1 style="text-shadow: 2px 2px 10px #99FFFF; color: #FFFFFF; text-align: center">This is just a plain header</h1>
+<h1 style="text-shadow: 2px 2px 10px #99FFFF; color: #FFFFFF; text-align: center; font-family: 'Tangerine', cursive;">This is just a plain header</h1>
 
 ```html
 <!DOCTYPE HTML>
@@ -45,7 +45,7 @@ You can think of programming in HTML as building a skeleton or maybe a doll that
 </head>
 
 <body>
-<h1 style="text-shadow: 0 0 3px #99FFFF; color: #FFFFFF; text-align: center">This is just a plain header</h1>
+<h1 style="text-shadow: 0 0 3px #99FFFF; color: #FFFFFF; text-align: center; font-family: 'Tangerine', cursive;">This is just a plain header</h1>
 </body>
 </html>
 ```
