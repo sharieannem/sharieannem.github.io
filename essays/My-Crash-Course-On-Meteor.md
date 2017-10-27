@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: My Crash Course on Meteor
-date: 2017-09-07
+date: 2017-10-26
 labels:
   - Meteor
   - Application Architecture
