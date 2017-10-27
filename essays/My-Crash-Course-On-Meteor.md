@@ -16,48 +16,17 @@ Like the name implies and from the meme above, Meteor did rock my world these pa
 
 ## Major Dislike
 
-One aspect about running Meteor from my Windows 10 8GGB RAM computer was the load time. Installing and running meteor for a project took me about 10 minutes if I was lucky. If I was not lucky, let's just say it was faster for me to finish the updates to my application than the sum time it took for Meteor to get up and running.
+One aspect about running Meteor from my Windows 10 8GGB RAM computer was the load time. Installing and running meteor for a project took me about 10 minutes if I was lucky. If I was not lucky, let's just say it was faster to update my application than the sum time it took for Meteor to get up and running.
+
+## Easy
+
+I found most of my journey with Meteor to be extremely difficult and long but what made it a bit easier was my background in CSS, HTML, and Javascript. Meteor integrates these languages, uses additional plugins, and is equpped with MongoDb. FlowRouter for one was also a great tool to use because it made routing between different pages definitely easier.
 
 ## A Few "Crashes"
 
-
-
-## What is "not smart"?
-
-Questions opposite to the example above are more likely to yield the opposite results or no results at all. Questions that are told in a "not smart" fashion tend to sound like the user is desperate for the answer only and/or demonstrate the user's lack of research on his/her own question. These questions can be very ambiguous as it might not clearly state what the goal is in a concise and professional manner.
-
-Below shows an example of a question that exactly portrays this image:
-
-> "I need help in java: so in the code I'm working itread from the input file and writes that info to the output file. in the input  
-> file I have this info 1245: my address: miami, fl. then when the information is being written down in the output I need it to change 
-> the : for |. can anyone explain how can I do This."
-
-```
-import java.io.*;
-
-public class fileConverted {
-
-public static void main(String args[]) {        
-    try {
-        File input = new File("input");
-        File output = new File("output");
-        Scanner sc = new Scanner(input);   
-        PrintWriter printer = new PrintWriter(output);
-        while (sc.hasNextLine()) {
-            String s = sc.nextLine();
-            printer.write(s);
-        }
-        printer.flush();
-    }
-    catch (FileNotFoundException e) {
-        System.err.println("File not found. Please scan in new file.");
-    }
-}
-```
-
-If you are interested, the post can be accessed by clicking [here](https://stackoverflow.com/questions/32686789/i-need-help-in-java).
-First of all, the headline is not helpful and does not give others browsing through the forums to clearly know what it is the user is asking for. Secondly, this post is very confusing because of its wording. It clearly shows the lack of the user's attempt to find solutions on his/her own before directing the question to the forum community. Because of the quality, this question did not attract a lot of answers—compared to the number of views it got (53), it is a very low proportion—and has 4 negative ratings.
+Being that Meteor was the first full-stack web application framework that I have worked with, I stumbled on a few things. For one, learning about Meteor's application structure ws a bit overwhelming because it seemed very complex than what I was used to. Meteor applications are structured in a way where there are subdirectories specific for the client, for the server, and for the imports. And within those, can be other subdirectories as well. Another difficulty I found was incorporating MongoDB's templates and collections into my application.
 
 ## Conclusion
 
-Admittingly, I sometimes do ask "not-so-smart" questions and looking back, the answers I got either left me in the same confused state or made me even more confused. After reading about the effective ways on how to ask [questions](http://www.catb.org/esr/faqs/smart-questions.html) and applying what I learned by pinpointing the bad questions from the good on StackOverflow, I have a good understanding on how to communicate questions effectively in a way that actually encourages people to answer and help me out.
+Although I did crash a few times, it was all part of the learning experience. I am still a bit of a novice when it comes to web application frameworks but I could see that Meteor does play an integral role in delivering modern web applications. Its ability to process the current state of my program and project it into my local host amazed me. This experience gave me a glimpse of what real web development would be like and I would not trade it for a thing. Meteor is definitely worth learning!
+
