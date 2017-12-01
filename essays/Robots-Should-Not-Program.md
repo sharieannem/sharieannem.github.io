@@ -8,11 +8,11 @@ labels:
   - Responsibility
 ---
 
-<img class="ui medium left floated image" src="../images/meteor-meme.jpg">
+<img class="ui medium left floated image" src="../images/robot-coding.jpg">
 
-## They Were Not Joking When They Named It Meteor
+## What are software engineering ethics?
 
-Like the name implies and from the meme above, Meteor did rock my world these past two weeks. I took a crash course in Meteor, a client-server application architecture, and while doing so, I did indeed "crash" a couple of times. All puns aside, I definitely learned a lot about creating web applications using Meteor.
+Text Here
 
 ## Major Dislike
 
@@ -28,5 +28,9 @@ I found most of my journey with Meteor to be extremely difficult and long but wh
 
 ## Conclusion
 
-Although I did crash a few times, it was all part of the learning experience. I am still a bit of a novice when it comes to web application frameworks but I could see that Meteor does play an integral role in delivering modern web applications. Its ability to process the current state of my program and project it into my local host amazed me. This experience gave me a glimpse of what real web development would be like and I would not trade it for a thing. Meteor is definitely worth learning!
+Text Here
+
+
+## Requirements
+Now write an interesting, informative technical essay about ethics in software engineering. You should begin by discussing, in your own words, what you think “ethics” means in the context of software engineering. Then, describe the situation you chose to analyze with respect to its ethical implications. Finally, present your conclusions: what is your personal opinion as to the ethical stance to be taken?
 
