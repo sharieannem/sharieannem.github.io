@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: shooots.png
+image: images/shooots.png
 title: Shooots
 permalink: projects/shooots
 date: 2016
@@ -13,10 +13,6 @@ labels:
   - Javascript
 summary: A web application for my final project in ICS 314. Its purpose is to connect UH Manoa students for any carpool needs that involves going to and from the University.
 ---
-
-
-  <img class="ui image" src="../images/sciencefair-board.jpg"> <br>
-  <img class="ui image" src="../images/sciencefair-map.jpg">
 
 ## What's the matter?
 
@@ -30,23 +26,23 @@ It all started with defining a problem that is pertinent to the student populati
 
 Below is the landing page. It describes the web application in a form of a slideshow.
 
-<img class="ui image" src="../images/shooots.jpg"> <br>
+<img class="ui image" src="../images/shooots.png"> <br>
 
 Below is the home page. It shows links for students to "Give a Ride" or "Find a Ride." It also displays the student's confirmed and pending carpool appointments.
 
-<img class="ui image" src="../images/shooots-home.jpg"> <br>
+<img class="ui image" src="../images/shooots-home.png"> <br>
 
 Below is the page where students can create/update their profile.
 
-<img class="ui image" src="../images/shooots-profile.jpg"> <br>
+<img class="ui image" src="../images/shooots-profile.png"> <br>
 
 Below is the page where "drivers" can make a carpool appointment.
 
-<img class="ui image" src="../images/shooots-schedule.jpg"> <br>
+<img class="ui image" src="../images/shooots-schedule.png"> <br>
 
 Below is the page where "riders" can filter through existing carpool appointments and schedule a ride with the driver.
 
-<img class="ui image" src="../images/shooots-filter.jpg"> <br>
+<img class="ui image" src="../images/shooots-filter.png"> <br>
 
 ## Behind Shooots
 
