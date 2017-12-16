@@ -29,32 +29,22 @@
   },
   "interests": [
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "psychology",
+      "name": "Psychology",
       "keywords": [
       ]
     },
     {
-      "name": "human-computer interaction",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "green energy",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Green Energy",
       "keywords": [
       ]
     }
@@ -67,7 +57,9 @@
       "keywords": [
         "Java",
         "HTML",
-        "CSS"
+        "CSS",
+        "Javascript",
+        "Semantic UI"
       ]
     },
     {
@@ -75,7 +67,10 @@
       "level": "",
       "keywords": [
         "Git/GitHub",
-        "Command Line"
+        "Command Line",
+        "Meteor",
+        "Windows",
+        "IntelliJ Idea"
       ]
     }
   ],
@@ -120,6 +115,17 @@
     }
   ],
   "volunteer": [
+    {
+      "company": "Hawaii Undergraduate Initiative",
+      "website": "http://manoa.hawaii.edu/omsshui/",
+      "position": "Program Team Member",
+      "startDate": "2017-11-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Plan activities to help future peer mentors develop their leadership and teamwork skills",
+      ]
+    },
     {
       "organization": "Hawaii Undergraduate Initiative",
       "website": "http://manoa.hawaii.edu/omsshui/",
