@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/shooots.png
+image: images/shooots-square.png
 title: Shooots
 permalink: projects/shooots
 date: 2016
